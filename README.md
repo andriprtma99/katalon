@@ -1,2 +1,3 @@
 # katalon
 Repository for training katalon studio
+Berikut link video bootcamp katalon #week2 : ...
